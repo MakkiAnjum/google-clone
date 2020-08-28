@@ -1,5 +1,3 @@
-import { red } from "@material-ui/core/colors";
-
 export const initialState = {
     term: null
 };
